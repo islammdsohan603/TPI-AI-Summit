@@ -36,7 +36,7 @@ const SignUpPages = () => {
     }
 
     if (error) {
-      alert('failde error');
+      alert(' error');
     }
   };
 
