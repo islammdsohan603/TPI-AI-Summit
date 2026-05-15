@@ -9,7 +9,7 @@ import Footer from "@/app/components/Footer";
 
 export default function Home() {
   return (
-    <main className="bg-[#050816] text-white overflow-hidden">
+    <main className="overflow-hidden bg-[var(--page-bg)] text-white">
       <Navbar />
       <Hero />
       <Schedule />
